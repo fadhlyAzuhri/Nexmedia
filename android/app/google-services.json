@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1012164637378",
+    "firebase_url": "https://portal-berita-6ec74-default-rtdb.firebaseio.com",
+    "project_id": "portal-berita-6ec74",
+    "storage_bucket": "portal-berita-6ec74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012164637378:android:ee8709b667dbb0f1bcc15b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_news_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyhdWJum1_zjoraxr6o6CcQusNpgDwoAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
